@@ -10,5 +10,4 @@ Vivado: Used for synthesis and implementation on FPGA hardware, ensuring seamles
 Implementation Details
 The DSP48A1 was successfully implemented, tested, and verified using Questasim, followed by synthesis and deployment on FPGA hardware using Vivado. This ensures that the design meets the required performance metrics and is ready for real-world applications in digital signal processing.
 By integrating the DSP48A1 slice, our design achieves efficient and high-performance arithmetic and logic operations, paving the way for advanced DSP applications in various fields.
-![image](https://github.com/user-attachments/assets/dc84f1a4-ef90-4c57-b750-3668cdbe76e3)
 ![image](https://github.com/user-attachments/assets/7ce22bf0-4f28-4eb4-8f93-d0ad540d05bc)
