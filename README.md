@@ -1,4 +1,4 @@
-# DSP48A1-
+# DSP48A1
 The DSP48A1 slice is a powerful and versatile component of FPGA architectures, designed to efficiently handle complex arithmetic operations. Our implementation leverages the capabilities of the DSP48A1 slice using Verilog, ensuring optimal performance for digital signal processing applications.
 Key Features
 Arithmetic Operations: Supports addition, subtraction, and multiplication, making it ideal for a wide range of DSP tasks.
